@@ -21,4 +21,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Comprehensive test coverage for client and options
 - Documentation with usage examples
 
-[1.0.0]: https://github.com/ua1984/mistral/tree/27d2298bb5cf5f1d581ee5d3b46158289ad62707
+[1.0.0]: https://github.com/ua1984/mistral/tree/8b89b2d7ef4d166edb90ca62948a13220dd668e8
