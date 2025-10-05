@@ -1,5 +1,11 @@
 # Mistral Go SDK
 
+
+[![GoDoc](https://pkg.go.dev/badge/mod/github.com/ua1984/mistral)](https://pkg.go.dev/mod/github.com/ua1984/mistral)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ua1984/mistral)](https://goreportcard.com/report/github.com/ua1984/mistral)
+[![Release](https://img.shields.io/github/release/ua1984/mistral.svg?style=flat-square)](https://github.com/ua1984/mistral/releases/latest)
+
+
 A Go client library for the [Mistral AI API](https://docs.mistral.ai/).
 
 ## Installation
