@@ -141,15 +141,15 @@ type DeleteFileResponse struct {
 
 // Agent represents an agent entity
 type Agent struct {
-	ID          string                 `json:"id"`
-	Object      string                 `json:"object"`
-	CreatedAt   time.Time              `json:"created_at"`
-	Name        string                 `json:"name"`
-	Description string                 `json:"description,omitempty"`
-	Model       string                 `json:"model"`
-	Instructions string                `json:"instructions,omitempty"`
-	Tools       []Tool                 `json:"tools,omitempty"`
-	Metadata    map[string]interface{} `json:"metadata,omitempty"`
+	ID           string                 `json:"id"`
+	Object       string                 `json:"object"`
+	CreatedAt    time.Time              `json:"created_at"`
+	Name         string                 `json:"name"`
+	Description  string                 `json:"description,omitempty"`
+	Model        string                 `json:"model"`
+	Instructions string                 `json:"instructions,omitempty"`
+	Tools        []Tool                 `json:"tools,omitempty"`
+	Metadata     map[string]interface{} `json:"metadata,omitempty"`
 }
 
 // Conversation represents a conversation entity
