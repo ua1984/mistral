@@ -1,4 +1,4 @@
-![Mistral Go SDK](https://github.com/user-attachments/assets/540539e7-a32b-4eae-a411-a0ecf2487718)
+# Mistral Go SDK
 
 A Go client library for the [Mistral AI API](https://docs.mistral.ai/).
 
