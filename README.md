@@ -223,7 +223,7 @@ client := mistral.NewClient(
 
 ## Requirements
 
-- Go 1.24.2 or later
+- Go 1.18 or later
 
 ## License
 
